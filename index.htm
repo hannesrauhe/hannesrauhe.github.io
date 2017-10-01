@@ -1,8 +1,27 @@
+<!DOCTYPE html>
 <html>
+<head>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="http://code.jquery.com/jquery-migrate-1.1.0.min.js"></script>
+</head>
+
 <body>
-<form action="https://script.google.com/macros/s/AKfycbx50g6HZ8jxhJTSwjaulevdFmN1I9U3wyzGoMKM_Ax3fJ1HbEY/exec">
+
+
+<div id="response">
+    <p id="responseParagraph">Base text</p>
+</div>
+
+<form action="https://script.google.com/macros/s/AKfycbx50g6HZ8jxhJTSwjaulevdFmN1I9U3wyzGoMKM_Ax3fJ1HbEY/exec" method="POST">
   <label><input name="q"></label>
   <button>Senden</button>
 </form>
+  
+<script>
+    $.getJSON("https://script.google.com/macros/s/AKfycbx50g6HZ8jxhJTSwjaulevdFmN1I9U3wyzGoMKM_Ax3fJ1HbEY/exec?mode=lastDate",
+        function(data) {
+            $('#responseParagraph').append("<p>"+data.responseMessage+"</p>");
+        });
+</script>
 </body>
 </html>
