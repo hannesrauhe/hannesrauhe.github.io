@@ -1,27 +1,9 @@
-<!DOCTYPE html>
 <html>
-<head>
-    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-    <script src="https://code.jquery.com/jquery-migrate-1.1.0.min.js"></script>
-</head>
-
-<body>
-
-
-<div id="response">
-    <p id="responseParagraph">Base text</p>
-</div>
-
-<form action="https://script.google.com/macros/s/AKfycbx50g6HZ8jxhJTSwjaulevdFmN1I9U3wyzGoMKM_Ax3fJ1HbEY/exec" method="POST">
-  <label><input name="q"></label>
-  <button>Senden</button>
-</form>
-  
-<script>
-    $.getJSON("https://script.google.com/macros/s/AKfycbx50g6HZ8jxhJTSwjaulevdFmN1I9U3wyzGoMKM_Ax3fJ1HbEY/exec?mode=lastDate",
-        function(data) {
-            $('#responseParagraph').append("<p>"+data.responseMessage+"</p>");
-        });
-</script>
-</body>
+ <head>
+ </head>
+ <body>
+  <script src="https://www.puck-js.com/puck.js"></script>
+  <button onclick="Puck.write('LED1.set();\n');">On!</button>
+  <button onclick="Puck.write('LED1.reset();\n');">Off!</button>
+ </body>
 </html>
