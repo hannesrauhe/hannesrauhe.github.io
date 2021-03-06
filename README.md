@@ -1,2 +1,3 @@
 # hannesrauhe.github.io
-Spielwiese
+
+A small personal homepage

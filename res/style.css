@@ -1,0 +1,63 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Open Sans", "Fira Sans", "DejaVu Sans", "Bitstream Vera Sans", Roboto, Ubuntu, Helvetica, Calibri, Arial, sans-serif;
+	background: #eee;
+	max-width: 75rem;
+	padding: 1em 0.75em 2em;
+	margin: 0 auto;
+}
+
+h2 {
+	text-align: center;
+	font-size: 3em;
+	line-height: 1.2em;
+	margin: 1rem 0 2rem 0;
+}
+
+h3 {
+	font-size: 2em;
+	margin: 3rem 0 1.5rem 0;
+	clear: both;
+}
+
+body > div:last-child {
+	padding-top: 2rem;
+}
+
+a {
+	color: inherit;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+ul a:hover {
+	text-decoration: dashed underline rgba(0,0,0,.8);
+}
+
+ul a:visited {
+	color: #666;
+}
+
+blockquote {
+	padding: 1.5em 1em;
+	margin: 1em 1em 1.5rem;
+	transform: rotate(0.2deg);
+	position: relative;
+}
+
+p:first-child {
+	margin-top: 0;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+
+@media screen and (min-width: 30rem) {
+	body > ul {
+		text-align: justify;
+	}
+}
