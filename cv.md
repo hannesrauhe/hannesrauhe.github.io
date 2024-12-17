@@ -19,19 +19,20 @@
 
 
 ## Work Experience
-| time        | where               | what                                                                                                                                                                         |
-|-------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2007 - 2009 | 4fo AG (Ilmenau)    | Internship: Automatic creation of web shops for artists and labels in PHP/JS)                                                                                                |
-| 2007 - 2009 | AICOMP (Memphis)    | Internship: Webserver and internal IT system maintenance, small app for time tracking on Mac OS                                                                              |
-| 2011 - 2015 | Scitivity GbR       | Founder  - websites and software for local businesses                                                                                                                        |
-| 2010 - 2013 | TU Ilmenau/SAP      | PhD student at SAP HANA Core development looking for opportunities to speed up query processing with GPUs and other hardware accelerators                                    |
-| 2013 - 2022 | SAP SE              | Developer at the SAP Innovation Center in Potsdam                                                                                                                            |
-|             | until 2015:         | development of the Vora graph engine (C++)                                                                                                                                   |
-|             | 2015 - 2019         | development of a distributed shared log to provide consistency for Vora’s computing engines (C++), concept and implementation of SAP Vora (a distributed DBMS)               |
-|             | 2017 - 2020         | Senior Developer, Responsible for upgrades of SAP DataHub (based on Kubernetes; monthly releases)                                                                            |
-|             | 2020 - 31.10.2022   | Development Expert, working on the HANA DataLake SQL on Files (C++ and Go), a distributed query engine running in Kubernetes and processing customer data in Parquet/ORC/CSV |
-| 2022 - 2024 | Amazon Web Services | Senior Development Engineer at AWS Aurora (PostgreSQL)                                                                                                                       |
-| since 2024  | Potsdam Institute of| Scientist in the Planetary Boundary Science lab. Advancing earth science with state of the art data procession methods                                                       |
+| time        | where                   | what                                                                                                                                                                         |
+|-------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2007 - 2009 | 4fo AG (Ilmenau)        | Internship: Automatic creation of web shops for artists and labels in PHP/JS)                                                                                                |
+| 2007 - 2009 | AICOMP (Memphis)        | Internship: Webserver and internal IT system maintenance, small app for time tracking on Mac OS                                                                              |
+| 2011 - 2015 | Scitivity GbR           | Founder  - websites and software for local businesses                                                                                                                        |
+| 2010 - 2013 | TU Ilmenau/SAP          | PhD student at SAP HANA Core development looking for opportunities to speed up query processing with GPUs and other hardware accelerators                                    |
+| 2013 - 2022 | SAP SE                  | Developer at the SAP Innovation Center in Potsdam                                                                                                                            |
+|             | until 2015:             | development of the Vora graph engine (C++)                                                                                                                                   |
+|             | 2015 - 2019             | development of a distributed shared log to provide consistency for Vora’s computing engines (C++), concept and implementation of SAP Vora (a distributed DBMS)               |
+|             | 2017 - 2020             | Senior Developer, Responsible for upgrades of SAP DataHub (based on Kubernetes; monthly releases)                                                                            |
+|             | 2020 - 31.10.2022       | Development Expert, working on the HANA DataLake SQL on Files (C++ and Go), a distributed query engine running in Kubernetes and processing customer data in Parquet/ORC/CSV |
+| 2022 - 2024 | Amazon Web Services     | Senior Development Engineer at AWS Aurora (PostgreSQL)                                                                                                                       |
+| since 2024  | Potsdam Institute of    | Scientist in the Planetary Boundary Science lab. Advancing earth science with state of the art data procession methods                                                       |
+|             | Climate Impact Research |                                                                                                                                                                              |
 
 ## Skills
 * Development: C/C++17 (>10 years), Go, Python, Bash, SQL, familiar with JS, PHP, C#, Java
