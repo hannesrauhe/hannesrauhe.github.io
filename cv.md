@@ -30,7 +30,8 @@
 |             | 2015 - 2019         | development of a distributed shared log to provide consistency for Vora’s computing engines (C++), concept and implementation of SAP Vora (a distributed DBMS)               |
 |             | 2017 - 2020         | Senior Developer, Responsible for upgrades of SAP DataHub (based on Kubernetes; monthly releases)                                                                            |
 |             | 2020 - 31.10.2022   | Development Expert, working on the HANA DataLake SQL on Files (C++ and Go), a distributed query engine running in Kubernetes and processing customer data in Parquet/ORC/CSV |
-| since 2022  | Amazon Web Services | Senior Development Engineer at AWS Aurora (PostgreSQL)                                                                                                                       |
+| 2022 - 2024 | Amazon Web Services | Senior Development Engineer at AWS Aurora (PostgreSQL)                                                                                                                       |
+| since 2024  | Potsdam Institute of| Scientist in the Planetary Boundary Science lab. Advancing earth science with state of the art data procession methods                                                       |
 
 ## Skills
 * Development: C/C++17 (>10 years), Go, Python, Bash, SQL, familiar with JS, PHP, C#, Java
